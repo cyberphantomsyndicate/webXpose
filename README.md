@@ -75,7 +75,7 @@ To get the unlock code, follow these steps:
 4. **Run the tool** using Python:
 
     ```bash
-    python webxpose.py
+    python webXpose.py
     ```
 
 ---
