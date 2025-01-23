@@ -1,5 +1,5 @@
 # **WebXpose Tool**  
-![WebXpose Banner](logo.jpeg)  
+![WebXpose Banner](IMG_7920.webp)  
 
 ## **Disclaimer**  
 **⚠️ Educational Purpose Only!**  
