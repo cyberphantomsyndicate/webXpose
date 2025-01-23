@@ -10,29 +10,29 @@ By using this tool, you acknowledge that you are fully responsible for any conse
 ---
 
 ## **About**  
-**WebXpose** is an all-in-one reconnaissance and ethical hacking tool designed to educate security professionals, penetration testers, and ethical hackers about web vulnerabilities. It's intended for **educational use only**, to learn about security practices, and to raise awareness about potential weaknesses in web applications and servers.
+**WebXpose** is an all-in-one reconnaissance 🕵️‍♂️ and ethical hacking 🔐 tool designed to educate security professionals, penetration testers, and ethical hackers about web vulnerabilities 🧑‍💻. It's intended for **educational use only**, to learn about security practices, and to raise awareness about potential weaknesses in web applications and servers.
 
 ---
 
 ## **Features**  
-- **Basic Reconnaissance**: Retrieves site title, IP address, detects CMS, checks for Cloudflare, and scans for `robots.txt`.
-- **Whois Lookup**: Provides domain registration information.
-- **Geo-IP Lookup**: Converts IP addresses to geographical locations.
-- **Banner Grabbing**: Identifies server software versions.
-- **DNS Lookups**: Queries DNS for IP addresses, subdomains, and records.
-- **Subdomain Enumeration**: Scans for hidden subdomains.
-- **NMAP Port Scanning**: Scans for open ports and services.
-- **SSL/TLS Certificate Analysis**: Checks certificate details for security.
-- **SQL Injection Scanning**: Detects SQL injection vulnerabilities, including blind SQLi.
-- **XSS Vulnerability Detection**: Identifies Cross-Site Scripting vulnerabilities.
-- **Directory Brute Forcing**: Finds hidden directories.
-- **Brute Force Login Attempts**: Tests login forms (use with caution).
-- **WAF Detection**: Identifies if a Web Application Firewall is in use.
-- **Time-Based Blind SQL Injection**: Detects vulnerabilities through response time.
-- **Crawling for Forms**: Analyzes web pages for forms and parameters.
-- **Optional API Integration**: Enhances capabilities with Shodan and VirusTotal.
-- **User Interface**: Colorized output with ASCII art for an engaging experience.
-- **Security**: Includes an unlock code mechanism.
+- **Basic Reconnaissance** 🔍: Retrieves site title, IP address, detects CMS, checks for Cloudflare, and scans for `robots.txt`.
+- **Whois Lookup** 📇: Provides domain registration information.
+- **Geo-IP Lookup** 🌍: Converts IP addresses to geographical locations.
+- **Banner Grabbing** 📡: Identifies server software versions.
+- **DNS Lookups** 🌐: Queries DNS for IP addresses, subdomains, and records.
+- **Subdomain Enumeration** 🧩: Scans for hidden subdomains.
+- **NMAP Port Scanning** 🔌: Scans for open ports and services.
+- **SSL/TLS Certificate Analysis** 🔒: Checks certificate details for security.
+- **SQL Injection Scanning** 💥: Detects SQL injection vulnerabilities, including blind SQLi.
+- **XSS Vulnerability Detection** 💻: Identifies Cross-Site Scripting vulnerabilities.
+- **Directory Brute Forcing** 📁: Finds hidden directories.
+- **Brute Force Login Attempts** 🔑: Tests login forms (use with caution).
+- **WAF Detection** 🛡️: Identifies if a Web Application Firewall is in use.
+- **Time-Based Blind SQL Injection** ⏳: Detects vulnerabilities through response time.
+- **Crawling for Forms** 📝: Analyzes web pages for forms and parameters.
+- **Optional API Integration** 🌐: Enhances capabilities with Shodan and VirusTotal.
+- **User Interface** 🎨: Colorized output with ASCII art for an engaging experience.
+- **Security** 🔒: Includes an unlock code mechanism.
 
 ---
 
